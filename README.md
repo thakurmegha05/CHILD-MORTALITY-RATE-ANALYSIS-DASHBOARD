@@ -71,7 +71,7 @@ Interactive filters and slicers
 
 7.Live Demo / GitHub Link
 
-Insert your GitHub or Power BI report link here
+https://github.com/thakurmegha05/CHILD-MORTALITY-RATE-ANALYSIS-DASHBOARD/blob/main/MORTALITY%20RATE%20ANALYSIS%20IMG.png
 
 8.Contact
 
